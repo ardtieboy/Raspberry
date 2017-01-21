@@ -73,3 +73,5 @@ Set baudrate:
 Monitor the received input
 
   cat </dev/ttyS0
+
+### Code examples will be added in the future
