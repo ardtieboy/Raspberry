@@ -18,7 +18,7 @@ And add below
         psk="testingPassword"
     }
 
-Where "testing" is replaced by "ScheirBinnen" and "psk" with 7RuUtCcN2s9N. After that, disconnect the keyboard and connect the USB wifi adapter. In the meantime reboot.
+Where "testing" is replaced by "ScheirBinnen" and "psk" with 7RuUtxxxx2s9N. After that, disconnect the keyboard and connect the USB wifi adapter. In the meantime reboot.
 
     sudo reboot
 
